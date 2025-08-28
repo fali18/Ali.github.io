@@ -1,2 +1,2 @@
-# A-STAR-LAB.github.io
-A research lab in the Department of Civil Engineering.
+# Ali.github.io
+A research student in the Department of Civil Engineering.
